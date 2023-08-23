@@ -20,8 +20,8 @@ https://trailhead.salesforce.com/ja/content/learn/projects/lwc-build-flexible-ap
 
 GitHubからプロジェクトをダウンロードしてVSCodeで開く。
 ```
-git clone git@github.com:tyoshikawa1106/sf-lwc-bear-traking.git
-cd sf-lwc-bear-traking
+git clone git@github.com:tyoshikawa1106/sf-bear-traking.git
+cd sf-bear-traking
 code .
 ```
 
