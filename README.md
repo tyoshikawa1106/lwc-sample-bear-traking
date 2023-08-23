@@ -58,13 +58,13 @@ sf org open -o bear-tracking -b chrome
 アプリケーションランチャーから「Ursus Park」アプリケーションを選択。  
 (Application Launcher → Ursus Park)
 
-Ligthningページのカスタマイズ  
-①Homeページ  
+### Edit Lightnign Page
+Home ページにLightning Web コンポーネントを配置
 - LWC「bearList」を配置
 - LWC「bearMap」を配置
 - LWC「helloWebComponent」配置
 
-②Bearsレコードページ
+Bears レコードページにLightning Web コンポーネントを配置
 - LWC「bearLocation」を配置
 - LWC「bearSupervisor」を配置
 
